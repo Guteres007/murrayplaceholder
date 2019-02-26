@@ -1,0 +1,13 @@
+{
+"name": "@guteres/murrayplaceholder",
+"version": "1.0.0",
+"description": "Add placeholder automaticaly to empty src",
+ "license": "MIT",
+ "repository": "Guteres007/murrayplaceholder",
+ "main": "index.js",
+ "keywords": [
+   "murrayplaceholder",
+   "npm",
+   "package"
+ ]
+}

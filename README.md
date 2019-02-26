@@ -1,10 +1,13 @@
 # murrayplaceholder
 
-##install 
+##install
+
 ```
 npm i @guteres/murrayplaceholder
 ```
+
 ##usage
+
 ```
-const tiny = require("@guteres/murrayplaceholder");
+import imgPlaceholder from '@guteres/murrayplaceholder';
 ```

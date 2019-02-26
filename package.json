@@ -1,13 +1,13 @@
 {
-"name": "@guteres/murrayplaceholder",
-"version": "1.0.2",
-"description": "Add placeholder automaticaly",
+ "name": "@guteres/murrayplaceholder",
+ "version": "2.0.0",
+ "description": "Add placeholder automaticaly",
  "license": "MIT",
  "repository": "Guteres007/murrayplaceholder",
  "main": "index.js",
  "keywords": [
-   "murrayplaceholder",
-   "npm",
-   "package"
+  "murrayplaceholder",
+  "npm",
+  "package"
  ]
 }

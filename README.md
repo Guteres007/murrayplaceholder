@@ -9,5 +9,5 @@ npm i @guteres/murrayplaceholder
 ##usage
 
 ```
-import imgPlaceholder from '@guteres/murrayplaceholder';
+import {imgPlaceholder} from '@guteres/murrayplaceholder';
 ```
